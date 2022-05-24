@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brianac687
-- 👀 I’m interested in astrodynamics, astrophysics, and physics in general!
+- 👀 I’m interested in astrodynamics and physics in general!
 - 🌱 I’m currently learning C programming
 
 <!---
